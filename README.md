@@ -5,7 +5,7 @@ This means u can create multiple accounts for a service while all trafic is poin
 
 Be aware a realy small percentage of websites don't allow these types of email adresses.
 
-![](https://cdn.discordapp.com/attachments/804334459297464321/1038915225556099162/IQDbZWZ.png)
+![screenshot](https://user-images.githubusercontent.com/66040880/211336763-b56d307f-59cc-40cd-80e2-6db87ea211f8.png)
 
 ## How to use :
 
@@ -17,4 +17,5 @@ Be aware a realy small percentage of websites don't allow these types of email a
 
 4.  input ur <u><mark>**gmail**</mark></u> address and select how many emails u want to generate
 
-5.  copy them or export them using the "export suffix" submenu
+5.  the emails will be exported automatically to the "emailgen.py" directory (Output.txt).
+
